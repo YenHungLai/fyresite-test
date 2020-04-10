@@ -11,7 +11,7 @@ Thank you for interviewing with Fyresite! We've designed this test to mimic as c
 
 Your task is to take this base project, implement the designs and display weather data using the open weather API.
 
-At the completion of your 4 hour window please submit a pull request with your completed changes. It's ok if you don't finish, we simply want to see what you can do in the allotted time. 
+At the completion of your 4 hour window please submit a pull request with your changes. It's ok if you don't finish, we simply want to see what you can do in the allotted time. 
 
 A few things to note:
 1. We have provided an example of a component that works with Redux
