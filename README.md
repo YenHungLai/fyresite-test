@@ -3,7 +3,7 @@
 ### Install & Run
 ```
 git clone https://github.com/Fyresite/SkillsDemo-WeatherPage.git
-cd clutch-web-app
+cd SkillsDemo-WeatherPage
 npm install
 npm start
 ```
