@@ -16,3 +16,5 @@ Weather data should be retrieved using https://openweathermap.org/api/hourly-for
 using this api key `b182c99605bca11944de3993c970e8f6`
 
 The temperature chart should be generated with this package https://www.npmjs.com/package/chart.js
+
+Documentation for Material UI can be found here: https://material-ui.com/getting-started/usage/
