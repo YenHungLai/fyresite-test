@@ -18,7 +18,9 @@ A few things to note:
 2. We want you to use redux to store the relevant data from the api call
 3. Use Material UI components when possible, try to avoid unnecessary custom components.
 
-Designs for the app can be found below, assets for the app can be found in FyreWeather.zip located in the root folder.
+**Assets** for the app can be found in **FyreWeather.zip** located in the root folder.
+
+**Designs** for the app can be found below,
 
 Zip Input Page:
 
