@@ -18,8 +18,7 @@ A few things to note:
 2. We want you to use redux to store the relevant data from the api call
 3. Use Material UI components when possible, try to avoid unnecessary custom components.
 
-Designs and assets for the app can be found here:
-
+Designs for the app can be found below, assets for the app can be found in FyreWeather.zip located in the root folder.
 
 Zip Input Page:
 
@@ -28,7 +27,6 @@ https://marvelapp.com/e45b041/screen/68049386/handoff
 Weather Forecast Page:
 
 https://marvelapp.com/e45b041/screen/68049387/handoff
-
 
 Weather data should be retrieved using https://openweathermap.org/api/hourly-forecast
 using this api key `b182c99605bca11944de3993c970e8f6`
