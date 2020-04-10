@@ -22,6 +22,7 @@ Designs and assets for the app can be found here:
 
 Zip Input Page:
 https://marvelapp.com/e45b041/screen/68049386/handoff
+
 Weather Forecast Page:
 https://marvelapp.com/e45b041/screen/68049387/handoff
 
