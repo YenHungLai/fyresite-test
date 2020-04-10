@@ -9,7 +9,7 @@ npm start
 ```
 A few things to note:
 1. We have an example of a component that works off a redux state
-2. We want you to use redux to store the data from the api call
+2. We want you to use redux to store the relevant data from the api call
 3. Use as many Material UI components as possible
 
 Weather data should be retrieved using https://openweathermap.org/api/hourly-forecast
