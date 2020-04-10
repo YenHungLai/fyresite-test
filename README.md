@@ -10,3 +10,5 @@ npm start
 
 Weather data should be retrieved using https://openweathermap.org/api/hourly-forecast
 using this api key `b182c99605bca11944de3993c970e8f6`
+
+The temperature chart should be generated with this package https://www.npmjs.com/package/chart.js
