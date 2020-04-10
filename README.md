@@ -16,7 +16,7 @@ At the completion of your 4 hour window please submit a pull request with your c
 A few things to note:
 1. We have provided an example of a component that works with Redux
 2. We want you to use redux to store the relevant data from the api call
-3. Use Material UI components when possible, try to avoid unnecessary custom components.
+3. Use [Material UI](https://material-ui.com/getting-started/usage/) components when possible, try to avoid unnecessary custom components.
 
 **Assets** for the app can be found in **FyreWeather.zip** located in the root folder.
 
