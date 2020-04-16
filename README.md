@@ -30,7 +30,9 @@ Weather Forecast Page:
 
 https://marvelapp.com/e45b041/screen/68049387/handoff
 
-Weather data should be retrieved using https://samples.openweathermap.org/data/2.5/forecast/hourly?zip=85001&appid=b182c99605bca11944de3993c970e8f6
+Weather data should be retrieved using the sample route below. Please make the request query with the correct zipcode.
+
+https://samples.openweathermap.org/data/2.5/forecast/hourly?zip=85001&appid=b182c99605bca11944de3993c970e8f6
 
 We planned to use the API but openweathermap.org recently revoked this route from their free package.
 
