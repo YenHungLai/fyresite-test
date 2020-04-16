@@ -36,7 +36,7 @@ https://samples.openweathermap.org/data/2.5/forecast/hourly?zip=85001&appid=b182
 
 (Note, this endpoint does not allow for CORS, which is why we ask you save the response as sample data inside the application.)
 
-We planned to use the API but openweathermap.org recently revoked this route from their free package.
+We planned to use the API but openweathermap.org recently revoked the planned route from their free package.
 
 The temperature chart should be generated with this package https://www.npmjs.com/package/chart.js
 
