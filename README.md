@@ -34,6 +34,8 @@ Weather data should be retrieved using the sample route below. Please make the r
 
 https://samples.openweathermap.org/data/2.5/forecast/hourly?zip=85001&appid=b182c99605bca11944de3993c970e8f6
 
+(Note, this endpoint does not allow for CORS, so please save the response as sample data inside the application.)
+
 We planned to use the API but openweathermap.org recently revoked this route from their free package.
 
 The temperature chart should be generated with this package https://www.npmjs.com/package/chart.js
