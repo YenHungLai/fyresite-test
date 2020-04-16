@@ -30,11 +30,11 @@ Weather Forecast Page:
 
 https://marvelapp.com/e45b041/screen/68049387/handoff
 
-Weather data should be retrieved using the sample route below. Please make the request query with the correct zipcode.
+Weather data should be saved statically inside the application using sample route below.
 
 https://samples.openweathermap.org/data/2.5/forecast/hourly?zip=85001&appid=b182c99605bca11944de3993c970e8f6
 
-(Note, this endpoint does not allow for CORS, so please save the response as sample data inside the application.)
+(Note, this endpoint does not allow for CORS, which is why we ask you save the response as sample data inside the application.)
 
 We planned to use the API but openweathermap.org recently revoked this route from their free package.
 
