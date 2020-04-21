@@ -30,13 +30,7 @@ Weather Forecast Page:
 
 https://marvelapp.com/e45b041/screen/68049387/handoff
 
-Weather data should be saved statically inside the application using sample route below.
-
-https://samples.openweathermap.org/data/2.5/forecast/hourly?zip=85001&appid=b182c99605bca11944de3993c970e8f6
-
-(Note, this endpoint does not allow for CORS, which is why we ask you save the response as sample data inside the application.)
-
-We planned to use the API but openweathermap.org recently revoked the planned route from their free package.
+Weather data should be retrieved using https://openweathermap.org/forecast5 using this api key `b182c99605bca11944de3993c970e8f6`
 
 The temperature chart should be generated with this package https://www.npmjs.com/package/chart.js
 
