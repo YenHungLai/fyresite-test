@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="21px" viewBox="0 0 15 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 64 (93537) - https://sketch.com -->
+    <title>rain</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.300000012">
+        <g id="cards/weather/day" transform="translate(-35.000000, -192.000000)">
+            <g id="Today">
+                <g transform="translate(30.000000, 80.000000)">
+                    <g id="Precep/Hum/Wind" transform="translate(0.000000, 110.000000)">
+                        <g id="Precipitation">
+                            <g id="rain">
+                                <polygon id="Path" points="0 0 25 0 25 25 0 25"></polygon>
+                                <path d="M12.5,23 C8.36221466,23 5,19.7688548 5,15.7728816 C5,13.149706 7.36573722,8.66397032 12.0966184,2.20456261 C12.296381,1.93181246 12.703619,1.93181246 12.9033816,2.20456261 C17.6342628,8.66397032 20,13.149706 20,15.7728816 C20,19.7688548 16.6377853,23 12.5,23 Z M6,15.7728816 C6,19.2074782 8.90579885,22 12.5,22 C16.0942012,22 19,19.2074782 19,15.7728816 C19,13.5114555 16.833514,9.33646319 12.5,3.34942191 C8.16648598,9.33646319 6,13.5114555 6,15.7728816 Z" id="Path" fill="#2E2E2E" fill-rule="nonzero"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
